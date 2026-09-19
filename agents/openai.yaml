@@ -1,0 +1,4 @@
+interface:
+  display_name: "Make Knowledge Cards"
+  short_description: "Turn Markdown or TXT content into concise knowledge cards."
+  default_prompt: "Convert the provided article or Markdown/TXT content into important, non-duplicated knowledge cards. Keep one concept per card and do not invent information."
